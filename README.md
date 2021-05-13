@@ -2,14 +2,20 @@
 
 It's just an stupid project made by a stupid person
 
+Requirement:
+
+1.python 3+
+
+2.zsh terminal shell
+
+
 How to use:
 
-1.Open the stupidOS file.
+1.type python and space in your command line or terminal
 
-2.Enter the passcode(The passcode is 3958)
+2.drag stupidOS.py into command line or terminal
 
-The program will appear in terminal/command line
+the passcode is 3958
 
-MADE BY GON
 
 (This is my fist project so don't bully me)
