@@ -2,8 +2,6 @@
 
 It's just an stupid project made by a stupid person
 
-Bash shell is not supported(?)
-
 How to use:
 
 1.Open the stupidOS file.
