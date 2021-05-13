@@ -1,4 +1,6 @@
-#This is not an actual OS
+# This is not an actual OS
+
+It's just an stupid project made by a stupid person
 
 Bash shell is not supported(?)
 
