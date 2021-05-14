@@ -1,5 +1,7 @@
 # Grade Calculator
 
+# WARNING:DON'T CHANGE THE LOCAION OF THE FILE,KEEP IT IN DOWNLOADS FOLDER
+
 requirement:
 
 1.Command line or terminal
