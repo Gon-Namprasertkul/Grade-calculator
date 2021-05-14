@@ -1,21 +1,15 @@
-# This is not an actual OS
+# Grade Calculator
 
-It's just an stupid project made by a stupid person
-
-Requirement:
-
-1.python 3+
-
-2.zsh terminal shell
-
+This calculator will help you find your grade
 
 How to use:
 
-1.type python and space in your command line or terminal
+1.Open .bat file with command line or terminal
 
-2.drag stupidOS.py into command line or terminal
+2.Enter your score
 
-the passcode is 3958
+requirement:
 
+1.Command line or terminal
 
-(This is my fist project so don't bully me)
+2.Brain
