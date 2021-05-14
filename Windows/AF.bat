@@ -1,3 +1,3 @@
 cd Downloads
 cd Grade-calculator
-python AF.py
+python content.py
